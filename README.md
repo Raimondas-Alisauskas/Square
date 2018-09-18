@@ -1,8 +1,8 @@
 # Square
-###Task:
+### Task:
 Find number of squares that any four points form on the plane. There won't be identical points.
 
-###App.Point class
+### App.Point class
 An object of App.Point class has pair of numbers (x, y) which are considered as coordinates of point on the
 2D plane.
 ```
